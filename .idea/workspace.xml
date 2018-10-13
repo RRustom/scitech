@@ -2,7 +2,192 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4290d65e-95f2-42b8-b7e3-e3d0d85cc5ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/js/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shAutoloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shAutoloader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushAS3.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushAS3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushAppleScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushAppleScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushBash.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushBash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushCSharp.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushCSharp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushColdFusion.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushColdFusion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushCpp.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushCpp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushCss.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushCss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushDelphi.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushDelphi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushDiff.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushDiff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushErlang.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushErlang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushGroovy.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushGroovy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushJScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushJScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushJava.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushJavaFX.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushJavaFX.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushPerl.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushPerl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushPhp.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushPhp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushPlain.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushPlain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushPowerShell.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushPowerShell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushPython.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushPython.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushRuby.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushRuby.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushSass.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushSass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushScala.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushScala.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushSql.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushSql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushVb.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushVb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shBrushXml.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shBrushXml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shCore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/scripts/shLegacy.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/scripts/shLegacy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCore.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCore.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreDefault.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreDefault.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreDjango.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreDjango.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreEclipse.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreEclipse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreEmacs.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreEmacs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreFadeToGrey.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreMDUltra.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreMDUltra.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreMidnight.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreMidnight.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shCoreRDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shCoreRDark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeDefault.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeDefault.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeDjango.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeDjango.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeEclipse.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeEclipse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeEmacs.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeEmacs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeFadeToGrey.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeMDUltra.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeMDUltra.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeMidnight.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeMidnight.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-doc/syntax-highlighter/styles/shThemeRDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/syntax-highlighter/styles/shThemeRDark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/blogpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/blogpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/carousel-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/carousel-slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/color-switcher.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/color-switcher.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/colors/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/colors/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/colors/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/colors/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/colors/green.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/colors/green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/colors/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/colors/purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/colors/red.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/colors/red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/colors/yellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/colors/yellow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/custom-components.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/custom-components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/nav-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/nav-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/nivo-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/nivo-lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/presets.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/presets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/slicknav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/line-icons/Simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/line-icons/Simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/line-icons/Simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/background/bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/background/bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/background/contact-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/background/contact-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/background/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/background/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/bloglarge-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/bloglarge-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/bloglarge-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/bloglarge-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/bloglarge-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/bloglarge-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/img6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/img6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/p2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/p3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/p4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/p4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/p5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/p5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/user1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/user1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/user2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/user2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/blog/user3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/blog/user3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/coffee-cup.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/coffee-cup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/feature/img-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/feature/img-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/feature/img-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/feature/img-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/feature/img-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/feature/img-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/footer-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/footer-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/img-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/img-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/gallery/lagre-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/gallery/lagre-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/marker.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/marker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/microphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/microphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/slider/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/slider/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/slider/bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/slider/bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/slider/bg-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/slider/bg-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/slider/bg-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/slider/bg-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/slider/bg-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/slider/bg-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/slider/bg-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/slider/bg-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/sponsors/logo-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/sponsors/logo-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/sponsors/logo-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/sponsors/logo-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/sponsors/logo-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/sponsors/logo-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/sponsors/logo-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/sponsors/logo-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/img-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/img-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/img-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/img-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/img-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/img-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/img-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/img-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/team-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/team-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/team-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/team-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/team-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/team-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/img/teacher/team-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/teacher/team-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/color-switcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/color-switcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/contact-form-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/contact-form-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/form-validator.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/form-validator.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/initializers.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/initializers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/jquery.countdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.countdown.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/jquery.mapit.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.mapit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/jquery.slicknav.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.slicknav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/nivo-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/nivo-lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/smooth-scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/smooth-scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/wow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/blogpage.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/blogpage.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/carousel-slider.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/carousel-slider.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/custom-components.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/custom-components.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/global.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/global.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/main.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/nav-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/nav-menu.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/presets.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/presets.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/less/responsive.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/responsive.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/php/form-process.php" beforeDir="false" afterPath="$PROJECT_DIR$/static/php/form-process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/assets/video/event.webm" beforeDir="false" afterPath="$PROJECT_DIR$/static/video/event.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/single-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/speakers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impression-pro-1.0/impression-template/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/impression-pro-1.0/impression-template/sponsors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/home.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,22 +205,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="css" value="2" />
+          <entry key="html" value="22" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="1" />
+          <entry key="png" value="1" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="12" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="22" />
+          <entry key="Image" value="2" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="48" />
+          <entry key="html" value="11" />
+          <entry key="py" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="48" />
+          <entry key="HTML" value="11" />
+          <entry key="Python" value="53" />
         </counts>
       </usages-collector>
     </session>
@@ -43,24 +239,104 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djangox/settings.py">
+        <entry file="file://$PROJECT_DIR$/templates/pages/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            <state relative-caret-position="5040">
+              <caret line="336" column="7" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/pages/speakers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6465">
+              <caret line="431" column="28" selection-start-line="431" selection-start-column="28" selection-end-line="431" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scitech/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11042">
+              <caret line="1073" column="40" selection-start-line="1073" selection-start-column="40" selection-end-line="1073" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+        <entry file="file://$PROJECT_DIR$/static/css/colors/default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            <state relative-caret-position="15">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scitech/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="140" column="26" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assets</find>
+      <find>/img/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/images/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +347,17 @@
         <option value="$PROJECT_DIR$/djangox/settings.py" />
         <option value="$PROJECT_DIR$/djangox/wsgi.py" />
         <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/templates/pages/about.html" />
+        <option value="$PROJECT_DIR$/templates/pages/blog.html" />
+        <option value="$PROJECT_DIR$/templates/pages/contact.html" />
+        <option value="$PROJECT_DIR$/templates/pages/gallery.html" />
+        <option value="$PROJECT_DIR$/templates/pages/pricing.html" />
+        <option value="$PROJECT_DIR$/templates/pages/schedule.html" />
+        <option value="$PROJECT_DIR$/templates/pages/single-post.html" />
+        <option value="$PROJECT_DIR$/templates/pages/speakers.html" />
+        <option value="$PROJECT_DIR$/templates/pages/sponsors.html" />
+        <option value="$PROJECT_DIR$/pages/views.py" />
+        <option value="$PROJECT_DIR$/templates/pages/index.html" />
       </list>
     </option>
   </component>
@@ -84,7 +371,9 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -100,17 +389,35 @@
             <path>
               <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
               <item name="scitech" type="462c0819:PsiDirectoryNode" />
-              <item name="djangox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scitech" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
               <item name="scitech" type="462c0819:PsiDirectoryNode" />
+              <item name="scitech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scitech" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scitech" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scitech" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="colors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scitech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scitech" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,11 +427,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/static/js" />
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,7 +482,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -207,18 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -238,10 +543,193 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="336" column="7" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4444">
+          <caret line="544" column="7" selection-start-line="544" selection-start-column="7" selection-end-line="544" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="330" column="7" selection-start-line="330" selection-start-column="7" selection-end-line="330" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="334" column="7" selection-start-line="334" selection-start-column="7" selection-end-line="334" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="326" column="7" selection-start-line="326" selection-start-column="7" selection-end-line="326" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="521" column="7" selection-start-line="521" selection-start-column="7" selection-end-line="521" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/single-post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/base.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/falconx.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/speakers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6465">
+          <caret line="431" column="28" selection-start-line="431" selection-start-column="28" selection-end-line="431" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scitech/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="140" column="26" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scitech/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11042">
+          <caret line="1073" column="40" selection-start-line="1073" selection-start-column="40" selection-end-line="1073" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/colors/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>

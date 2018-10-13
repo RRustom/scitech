@@ -1,0 +1,198 @@
+a{
+  color: #B82601;
+}
+a:hover{
+  color: #B82601;
+}
+.btn-common {
+  background: #B82601;
+}
+.btn-common:hover{
+ box-shadow: 0 14px 26px -12px rgba(233,30,99,0.42), 0 4px 23px 0px rgba(233,30,99,0.12), 0 8px 10px -5px rgba(233,30,99,0.02);
+}
+/* Back to Top */
+.back-to-top i {
+  background-color: #B82601;
+}
+/* Top Roof */
+#roof{
+  background: #B82601;
+}
+/* Navbar */
+.slicknav_btn{
+  border-color: #B82601;
+  border-radius: 2px;
+}
+.slicknav_menu .slicknav_btn .slicknav_icon-bar{
+  background: #B82601;
+}
+.slicknav_menu .slicknav_btn:hover{
+  background: #B82601;
+}
+.slicknav_nav .active a{
+  background: #B82601;
+}
+.slicknav_nav a:hover, .slicknav_nav .active{
+  color: #B82601;
+}
+.slicknav_nav .dropdown li a.active{
+  background: #B82601;
+}
+.navbar-default .navbar-toggle .icon-bar{
+  background: #B82601;
+}
+.navbar-event .navbar-nav li a:hover,
+.navbar-event .navbar-nav li .active > a,
+.navbar-event .navbar-nav li a:focus {
+  color: #B82601;
+}
+.navbar-event .dropdown .dropdown-menu {
+  border-color: #B82601;
+}
+.navbar-event .dropdown .dropdown-menu > li > a:hover,
+.navbar-event .dropdown .dropdown-menu > li > a .active {
+  color: #B82601;
+}
+.navbar-event .dropdown .dropdown-menu > li.active > a {
+  background: #B82601 !important;
+  color: #fff;
+}
+.navbar-event .navbar-nav > .active > a,
+.navbar-event .navbar-nav > .active > a:focus,
+.navbar-event .navbar-nav > .active > a:hover {
+  background: #B82601 !important;
+  color: #fff;
+}
+.navbar-event .navbar-nav > .open > a,
+.navbar-event .navbar-nav > .open > a:focus,
+.navbar-event .navbar-nav > .open > a:hover {
+  color: #B82601;
+}
+.navbar-event .navbar-nav > .active > a, 
+.navbar-event .navbar-nav > .active > a:hover{
+  color: #fff;
+}
+/* Countdown */
+.countdown-timer .text h4{
+  color: #B82601;
+}
+.time-entry span{
+    color: #B82601;
+}
+/* Event */
+#event .tab-block .icon i{
+  color: #B82601;
+}
+/* Featured icon */
+.featured-box .icon i{
+  color: #B82601;
+}
+/* Schedule */
+.main-board .day > li.active > a, 
+.main-board .day > li.active > a:focus, 
+.main-board .day > li.active > a:hover{
+  background-color: #B82601;
+}
+.main-board .day > li > a:focus, 
+.main-board .day > li > a:hover{
+  background: #B82601;
+}
+/* Gellery */
+.gallery-item .icons i:hover{
+  color: #B82601;
+  border-color: #B82601;
+}
+/* Video */
+.ready-to-play:before{
+  background: #B82601;
+}
+/* Blog */
+#blog .blog-info h3 a:hover{
+  color: #B82601;
+}
+/* Pricing Table */
+.pricing-table .table-icon i{
+  color: #B82601;
+}
+.pricing-table .table-icon i{
+  background: rgba(233, 30, 99, 0.07);
+}
+/* Contact */
+#contact .title-header .icon i{
+  color: #B82601;
+}
+#contact .label-line.active .label{
+   color: #B82601;
+}
+#contact .label-line.active .span:before{
+  background: #B82601;
+}
+#contact .span:before{
+  background: #B82601;
+}
+/* page header */
+.page-header .breadcrumb li{
+  color: #B82601;
+}
+.page-header .breadcrumb li a:hover{
+  color: #B82601;
+}
+/* Intro */
+#intro::before{
+  background: #B82601;
+}
+#subscribe-section::before{
+  background: #B82601;
+}
+#subscribe-section 
+.subscribe-box 
+.subscribe-form button:hover{
+  color: #B82601;
+}
+/* Speakers others */
+#team .team-img::before{
+  background: rgba(233, 30, 99, 0.7);
+}
+
+/* Blog page */
+.post-title a:hover{
+  color: #B82601;
+}
+.blog-post .post-content .meta .meta-part a:hover{
+  color: #B82601;
+}
+#pagination .current,
+#pagination a:hover{
+  color: #B82601;
+}
+.widget-search .search-btn:hover{
+  color: #B82601;
+}
+.widget-title{
+  border-bottom-color: #B82601;
+}
+#sidebar .posts-list .widget-content a:hover{
+  color: #B82601;
+}
+#sidebar .cat-list li a:hover{
+  color: #B82601;
+}
+#sidebar .tag a:hover{
+  color: #B82601;
+}
+.post-slide .post-content h3 a:hover{
+  color: #B82601;
+}
+.post-slide .post-content .meta .meta-part a:hover{
+  color: #B82601;
+}
+.owl-theme .owl-controls .owl-page.active span, 
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+  background: #B82601;
+}
+#comments .comment-content .comment-date{
+  color: #B82601;
+}
+.reply-link{
+  color: #B82601;
+}
